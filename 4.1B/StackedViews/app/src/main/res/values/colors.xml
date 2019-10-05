@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lgray">#CCCCCC</color>
+    <color name="lgray1">#FAFAFA</color>
+    <color name="lgray2">#e0e0e0</color>
+    <color name="lgray3">#bdbdbd</color>
+</resources>
