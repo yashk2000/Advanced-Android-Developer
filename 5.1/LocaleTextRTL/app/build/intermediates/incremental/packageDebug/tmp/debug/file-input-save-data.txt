@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 06 15:48:26 IST 2019
+0.baseType=DIRECTORY
+0.base=/home/yashk2000/codelabs/LocaleText/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
