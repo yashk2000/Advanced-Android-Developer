@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+MERGED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2b698e3b04ae6fd040d61a7be6adf58c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c9c4eb9ca7d3f3cfe476c8747bd9b15/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/76b1ed22bfd75761a61b674a6147472d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/01f86abd4d875d11097c99c74869527e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/060afa6efca14a8b9303b4ee85fb413b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b3ebfc6765f78651c6bd428cb12f903b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/26fd7ae9019d47b7cef969197a77f1bc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26c6666dc82686d408e012a5866193cf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7d87801550b31f86e415f2407c30da/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b71a1f65b5bd3522cde443f1be8f8b33/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/afdfb73e612d4a5d06c1ecc83b2e33fe/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aa7c9f08f0ce1f2da3e6ffc4819c06f/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+	package
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:17:5-45
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:1-45:12
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:19:5-43:19
+MERGED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2b698e3b04ae6fd040d61a7be6adf58c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2b698e3b04ae6fd040d61a7be6adf58c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c9c4eb9ca7d3f3cfe476c8747bd9b15/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c9c4eb9ca7d3f3cfe476c8747bd9b15/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/76b1ed22bfd75761a61b674a6147472d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/76b1ed22bfd75761a61b674a6147472d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/01f86abd4d875d11097c99c74869527e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/01f86abd4d875d11097c99c74869527e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/060afa6efca14a8b9303b4ee85fb413b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/060afa6efca14a8b9303b4ee85fb413b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b3ebfc6765f78651c6bd428cb12f903b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b3ebfc6765f78651c6bd428cb12f903b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/26fd7ae9019d47b7cef969197a77f1bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/26fd7ae9019d47b7cef969197a77f1bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26c6666dc82686d408e012a5866193cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26c6666dc82686d408e012a5866193cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7d87801550b31f86e415f2407c30da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7d87801550b31f86e415f2407c30da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b71a1f65b5bd3522cde443f1be8f8b33/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b71a1f65b5bd3522cde443f1be8f8b33/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/afdfb73e612d4a5d06c1ecc83b2e33fe/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/afdfb73e612d4a5d06c1ecc83b2e33fe/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aa7c9f08f0ce1f2da3e6ffc4819c06f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aa7c9f08f0ce1f2da3e6ffc4819c06f/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.localetext.MainActivity
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:26:9-35:20
+	android:label
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.example.android.localetext.HelpActivity
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:parentActivityName
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:38:13-55
+	android:label
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:37:13-48
+	android:name
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:36:19-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:39:13-41:49
+	android:value
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:41:17-46
+	android:name
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml:40:17-63
+uses-sdk
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2b698e3b04ae6fd040d61a7be6adf58c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2b698e3b04ae6fd040d61a7be6adf58c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c9c4eb9ca7d3f3cfe476c8747bd9b15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c9c4eb9ca7d3f3cfe476c8747bd9b15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/76b1ed22bfd75761a61b674a6147472d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/76b1ed22bfd75761a61b674a6147472d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/01f86abd4d875d11097c99c74869527e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/01f86abd4d875d11097c99c74869527e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/060afa6efca14a8b9303b4ee85fb413b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/060afa6efca14a8b9303b4ee85fb413b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b3ebfc6765f78651c6bd428cb12f903b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b3ebfc6765f78651c6bd428cb12f903b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/26fd7ae9019d47b7cef969197a77f1bc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/26fd7ae9019d47b7cef969197a77f1bc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26c6666dc82686d408e012a5866193cf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26c6666dc82686d408e012a5866193cf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7d87801550b31f86e415f2407c30da/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7d87801550b31f86e415f2407c30da/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b71a1f65b5bd3522cde443f1be8f8b33/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b71a1f65b5bd3522cde443f1be8f8b33/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/afdfb73e612d4a5d06c1ecc83b2e33fe/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/afdfb73e612d4a5d06c1ecc83b2e33fe/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aa7c9f08f0ce1f2da3e6ffc4819c06f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aa7c9f08f0ce1f2da3e6ffc4819c06f/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yashk2000/codelabs/LocaleText3_start/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2b698e3b04ae6fd040d61a7be6adf58c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2b698e3b04ae6fd040d61a7be6adf58c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/76b1ed22bfd75761a61b674a6147472d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/76b1ed22bfd75761a61b674a6147472d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/01f86abd4d875d11097c99c74869527e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/01f86abd4d875d11097c99c74869527e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/060afa6efca14a8b9303b4ee85fb413b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/060afa6efca14a8b9303b4ee85fb413b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b3ebfc6765f78651c6bd428cb12f903b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b3ebfc6765f78651c6bd428cb12f903b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/26fd7ae9019d47b7cef969197a77f1bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/26fd7ae9019d47b7cef969197a77f1bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26c6666dc82686d408e012a5866193cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26c6666dc82686d408e012a5866193cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7d87801550b31f86e415f2407c30da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8e7d87801550b31f86e415f2407c30da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b71a1f65b5bd3522cde443f1be8f8b33/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b71a1f65b5bd3522cde443f1be8f8b33/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/afdfb73e612d4a5d06c1ecc83b2e33fe/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/afdfb73e612d4a5d06c1ecc83b2e33fe/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aa7c9f08f0ce1f2da3e6ffc4819c06f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aa7c9f08f0ce1f2da3e6ffc4819c06f/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6e2a63bf7842b3762efa49f8d2130f1c/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0d94f6cd8afdfa065782084ab0bb0fc/AndroidManifest.xml:26:13-58
