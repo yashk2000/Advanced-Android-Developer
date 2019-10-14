@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Oct 14 18:52:57 IST 2019
+0.baseType=DIRECTORY
+0.base=/home/yashk2000/codelabs/WalkMyAndroid/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
