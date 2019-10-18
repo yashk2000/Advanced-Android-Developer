@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-places:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/d7327c2e3e8b176bab7a25b28fd24cdc/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/cb1de451bc5f45fb9cf33ffb4fca093f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e516ceb57e624da7542eff2f71fe0cd7/AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/abc8a3dd543acb277c55bf9c1f60a769/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/c01b84fc83d6ceda494a7f546377891e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/3deb28da0ad4e9f832d04f1b43d6f0c8/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/8e61a4b343c27d800487c0fba244e49d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6ca7732a1601081eec167d5256bd8944/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/363cdc3d7b2d482ceab881254a4d94b5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6f4b28fd8a7be90fe417bfa6e76c4b62/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/b04fd452c9342039fef414eb880fbc4f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/087bf19fe91ad9d911316806242dec79/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/684344bc19982cea7eea6244a81e0f7b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6a910a8f61fc3260c716898d78ebb591/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/75a8aaeb8b4d41454b88ef5f620baa53/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/263496887d9c367497277ed491f71e3d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/f0fe221576934d2fb92c8dff9c3ea35a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/ea6b71bcfd482104f0007b642ccfe4b4/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+	package
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:18:5-54
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:1-44:12
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:20:22-76
+application
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:22:5-42:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-places:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/d7327c2e3e8b176bab7a25b28fd24cdc/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/d7327c2e3e8b176bab7a25b28fd24cdc/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/cb1de451bc5f45fb9cf33ffb4fca093f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/cb1de451bc5f45fb9cf33ffb4fca093f/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e516ceb57e624da7542eff2f71fe0cd7/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e516ceb57e624da7542eff2f71fe0cd7/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/abc8a3dd543acb277c55bf9c1f60a769/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/abc8a3dd543acb277c55bf9c1f60a769/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/c01b84fc83d6ceda494a7f546377891e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/c01b84fc83d6ceda494a7f546377891e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/3deb28da0ad4e9f832d04f1b43d6f0c8/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/3deb28da0ad4e9f832d04f1b43d6f0c8/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/8e61a4b343c27d800487c0fba244e49d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/8e61a4b343c27d800487c0fba244e49d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6ca7732a1601081eec167d5256bd8944/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6ca7732a1601081eec167d5256bd8944/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/363cdc3d7b2d482ceab881254a4d94b5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/363cdc3d7b2d482ceab881254a4d94b5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6f4b28fd8a7be90fe417bfa6e76c4b62/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6f4b28fd8a7be90fe417bfa6e76c4b62/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/b04fd452c9342039fef414eb880fbc4f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/b04fd452c9342039fef414eb880fbc4f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/087bf19fe91ad9d911316806242dec79/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/087bf19fe91ad9d911316806242dec79/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/684344bc19982cea7eea6244a81e0f7b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/684344bc19982cea7eea6244a81e0f7b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6a910a8f61fc3260c716898d78ebb591/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6a910a8f61fc3260c716898d78ebb591/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/75a8aaeb8b4d41454b88ef5f620baa53/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/75a8aaeb8b4d41454b88ef5f620baa53/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/263496887d9c367497277ed491f71e3d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/263496887d9c367497277ed491f71e3d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/f0fe221576934d2fb92c8dff9c3ea35a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/f0fe221576934d2fb92c8dff9c3ea35a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/ea6b71bcfd482104f0007b642ccfe4b4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/ea6b71bcfd482104f0007b642ccfe4b4/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:28:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:30:9-32:70
+	android:value
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:32:13-68
+	android:name
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:31:13-58
+activity#com.example.android.walkmyandroidplaces.MainActivity
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:34:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-places:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/d7327c2e3e8b176bab7a25b28fd24cdc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/d7327c2e3e8b176bab7a25b28fd24cdc/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/cb1de451bc5f45fb9cf33ffb4fca093f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/cb1de451bc5f45fb9cf33ffb4fca093f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e516ceb57e624da7542eff2f71fe0cd7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e516ceb57e624da7542eff2f71fe0cd7/AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/abc8a3dd543acb277c55bf9c1f60a769/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/abc8a3dd543acb277c55bf9c1f60a769/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/c01b84fc83d6ceda494a7f546377891e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/c01b84fc83d6ceda494a7f546377891e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/3deb28da0ad4e9f832d04f1b43d6f0c8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/3deb28da0ad4e9f832d04f1b43d6f0c8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/8e61a4b343c27d800487c0fba244e49d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/8e61a4b343c27d800487c0fba244e49d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6ca7732a1601081eec167d5256bd8944/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6ca7732a1601081eec167d5256bd8944/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/363cdc3d7b2d482ceab881254a4d94b5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/363cdc3d7b2d482ceab881254a4d94b5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6f4b28fd8a7be90fe417bfa6e76c4b62/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6f4b28fd8a7be90fe417bfa6e76c4b62/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/b04fd452c9342039fef414eb880fbc4f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/b04fd452c9342039fef414eb880fbc4f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/087bf19fe91ad9d911316806242dec79/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/087bf19fe91ad9d911316806242dec79/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/684344bc19982cea7eea6244a81e0f7b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/684344bc19982cea7eea6244a81e0f7b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6a910a8f61fc3260c716898d78ebb591/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6a910a8f61fc3260c716898d78ebb591/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/75a8aaeb8b4d41454b88ef5f620baa53/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/75a8aaeb8b4d41454b88ef5f620baa53/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/263496887d9c367497277ed491f71e3d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/263496887d9c367497277ed491f71e3d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/f0fe221576934d2fb92c8dff9c3ea35a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/f0fe221576934d2fb92c8dff9c3ea35a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/ea6b71bcfd482104f0007b642ccfe4b4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/ea6b71bcfd482104f0007b642ccfe4b4/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/abc8a3dd543acb277c55bf9c1f60a769/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/abc8a3dd543acb277c55bf9c1f60a769/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/c01b84fc83d6ceda494a7f546377891e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/c01b84fc83d6ceda494a7f546377891e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/8e61a4b343c27d800487c0fba244e49d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/8e61a4b343c27d800487c0fba244e49d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6ca7732a1601081eec167d5256bd8944/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6ca7732a1601081eec167d5256bd8944/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/363cdc3d7b2d482ceab881254a4d94b5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/363cdc3d7b2d482ceab881254a4d94b5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6f4b28fd8a7be90fe417bfa6e76c4b62/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/6f4b28fd8a7be90fe417bfa6e76c4b62/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/b04fd452c9342039fef414eb880fbc4f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/b04fd452c9342039fef414eb880fbc4f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/087bf19fe91ad9d911316806242dec79/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/087bf19fe91ad9d911316806242dec79/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/e705131dcb0455bcac1dc21f22d04677/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/62434b0885b61c964784b2a00fd5b3c1/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9da9e1d8ad0caa2d58734784f84e0519/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yashk2000/.gradle/caches/transforms-2/files-2.1/9d618773eabc4ead2fef2cd453f69cef/AndroidManifest.xml:26:13-58
