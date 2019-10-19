@@ -44,7 +44,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <meta-data
-            android:name="com.google.android.geo.API_KEY"
+            android:name="com.google.android.geo.AIzaSyDpu4Sauv7SFbpeXBojwsulH1ny1ZkVRbI"
             android:value="AIzaSyDpu4Sauv7SFbpeXBojwsulH1ny1ZkVRbI" />
 
         <activity android:name="com.example.android.walkmyandroidplaces.MainActivity" >

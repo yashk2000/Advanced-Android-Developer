@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yashk2000/codelabs/WalkMyAndroidPlaces-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
+            "outputFile": "/home/yashk2000/Advanced-Android-Developer/8.1/WalkMyAndroidPlaces/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
             "map": [
                 {
                     "source": "/home/yashk2000/.gradle/caches/transforms-2/files-2.1/0cc852104ddbb271c6dbeed227229e34/res/values-gu/values-gu.xml",
