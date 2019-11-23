@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleVideoView</string>
+    <string name="buffering_string">Buffering&#8230;</string>
+    <string name="toast_message">Playback completed.</string>
+</resources>
